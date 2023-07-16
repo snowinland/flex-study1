@@ -1,0 +1,280 @@
+@charset 'UTF-8';
+/* CSS Document */
+
+/* @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable.css"); */
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css');
+* {
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+    font-size: 100%;
+}
+
+/*본문 스타일 rem*/
+.text_rem1{
+    font-family: "Pretendard Variable";
+    font-size: 4em;
+    line-height: 170%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing:0;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.text_rem2{
+    font-family: "Pretendard Variable";
+    font-size: 3em;
+    line-height: 160%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.text_rem3{
+    font-family: "Pretendard Variable";
+    font-size: 2em;
+    line-height: 160%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.1em;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.text_rem4{
+    font-family: "Pretendard Variable";
+    font-size: 1em;
+    line-height: 170%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.2em;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+/*본문 스타일 2*/
+.text18 {
+    font-family: "Pretendard Variable";
+    font-size: 18px;
+    line-height: 170%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.2em;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.text17 {
+    font-family: "Pretendard Variable";
+    font-size: 17px;
+    line-height: 170%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.2em;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.text16 {
+    font-family: "Pretendard Variable";
+    font-size: 16px;
+    line-height: 180%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.15em;
+    font-weight: 380;
+    margin-bottom: 50px;
+}
+.text15 {
+    font-family: "Pretendard Variable";
+    font-size: 15px;
+    line-height: 170%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.2em;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.text14 {
+    font-family: "Pretendard Variable";
+    font-size: 14px;
+    line-height: 175%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.05em;
+    font-weight: 440;
+    margin-bottom: 50px;
+}
+.text13 {
+    font-family: "Pretendard Variable";
+    font-size: 13px;
+    line-height: 170%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.2em;
+    font-weight: 480;
+    margin-bottom: 50px;
+}
+.text12 {
+    font-family: "Pretendard Variable";
+    font-size: 12px;
+    line-height: 175%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.18em;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.text11 {
+    font-family: "Pretendard Variable";
+    font-size: 11px;
+    line-height: 175%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.18em;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.text10 {
+    font-family: "Pretendard Variable";
+    font-size: 10px;
+    line-height: 185%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.18em;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.text9 {
+    font-family: "Pretendard Variable";
+    font-size: 9px;
+    line-height: 190%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.18em;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.text8 {
+    font-family: "Pretendard Variable";
+    font-size: 8px;
+    line-height: 190%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.18em;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.text_1cm {
+    font-family: "Pretendard Variable";
+    font-size:1cm;
+    line-height: 190%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.18em;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.text_1in {
+    font-family: "Pretendard Variable";
+    font-size:1in;
+    line-height: 190%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.18em;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.text_1vh {
+    font-family: "Pretendard Variable";
+    font-size:1vh;
+    line-height: 190%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.18em;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.text_1mm {
+    font-family: "Pretendard Variable";
+    font-size:1mm;
+    line-height: 190%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.18em;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.text_1pt {
+    font-family: "Pretendard Variable";
+    font-size:1pt;
+    line-height: 190%;
+    word-break: keep-all;
+    text-align: left;
+    color:#333333;
+    letter-spacing: -0.0001em;
+    word-spacing: 0.18em;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+/* animation */
+#pretendard>span {
+    animation: variable-loop 4s infinite both;
+    animation-delay: var(--delay);
+    text-align: center;
+    --delay: calc((var(--variable-index) + 1) * 0.15s);
+}
+@keyframes variable-loop {
+    0% {
+        font-weight: 45;
+        letter-spacing: -0.03em;
+    }
+
+    50% {
+        font-weight: 760;
+        letter-spacing: -0.05em;
+    }
+
+    100% {
+        font-weight: 45;
+        letter-spacing: -0.03em;
+    }
+}
+span .here{
+    background-color: rgba(#111111,#111111,#111111, 0.1);
+}
